@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f22fbc6c-eae5-4f83-b945-417a12746dbd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "甄姬头像": {
+      "ver": "1.0.3",
+      "uuid": "02651074-ce98-4f99-9c3a-cae996033a8c",
+      "rawTextureUuid": "f22fbc6c-eae5-4f83-b945-417a12746dbd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 107,
+      "rawWidth": 108,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

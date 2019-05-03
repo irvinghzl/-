@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "eab3301f-c12d-43f5-83ef-dc9a3c2050a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Cocos2d怪兽大战僵尸手游完整源码-btn 玩 ipad_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "49d83c80-8cc0-4cd6-ac6c-0748f4277ed3",
+      "rawTextureUuid": "eab3301f-c12d-43f5-83ef-dc9a3c2050a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 657,
+      "height": 167,
+      "rawWidth": 657,
+      "rawHeight": 167,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

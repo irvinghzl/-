@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "662951ee-4013-4b78-938b-afb7331d1937",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "诸葛亮头像": {
+      "ver": "1.0.3",
+      "uuid": "89805f39-1b9b-41f7-87ec-1b9ff453cfbc",
+      "rawTextureUuid": "662951ee-4013-4b78-938b-afb7331d1937",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 107,
+      "rawWidth": 108,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

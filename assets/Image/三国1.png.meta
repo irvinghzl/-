@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e236f41e-0005-4f33-897a-ce61b23d6bb3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "三国1": {
+      "ver": "1.0.3",
+      "uuid": "948fa6fa-8526-4219-b51e-34ea22838f0c",
+      "rawTextureUuid": "e236f41e-0005-4f33-897a-ce61b23d6bb3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 234,
+      "height": 502,
+      "rawWidth": 234,
+      "rawHeight": 502,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
